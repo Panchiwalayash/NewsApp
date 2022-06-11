@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Cointelegraph" },
+      "author": "William Suberg",
+      "title": "Bitcoin returns to $42K as bets start favoring ‘short squeeze’ higher for BTC - Cointelegraph",
+      "description": "BTC price action could surprise everyone with a \"short squeeze\" and bullish open interest reset.",
+      "url": "https://cointelegraph.com/news/bitcoin-returns-to-42k-as-bets-start-favoring-short-squeeze-higher-for-btc",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDEvN2ExMDgxZDMtZmUyNC00NzFlLTlmZTMtZWY0NGMwOTgwNTZhLmpwZw==.jpg",
+      "publishedAt": "2022-01-11T09:20:33Z",
+      "content": "Bitcoin (BTC) broke through $42,000 on Jan. 11 as expectations of a fresh short squeeze mounted.\r\nBTC/USD 1-hour candle chart (Bitstamp). Source: TradingView\r\nShort-term squeeze reasonably likely\r\nDa… [+2413 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Elliot Smith",
+      "title": "Goldman's David Kostin says a tech disconnect is the 'single greatest mispricing' in U.S. stocks - CNBC",
+      "description": "A tech stock derating likely has further to go, according to Goldman Sachs' Chief U.S. Equity Strategist David Kostin.",
+      "url": "https://www.cnbc.com/2022/01/11/goldmans-david-kostin-says-a-tech-disconnect-is-the-single-greatest-mispricing-in-us-equities.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106725651-1601562308418-kos.jpg?v=1601562334",
+      "publishedAt": "2022-01-11T08:32:23Z",
+      "content": "LONDON A substantial disconnect in the U.S. tech sector is top of mind for investors in 2022, according to Goldman Sachs' Chief U.S. Equity Strategist David Kostin.\r\nU.S. tech sold off sharply in the… [+2500 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Asian stocks, dollar hunt for direction as investors look to Fed policy - Reuters",
+      "description": "Asian equities and the dollar struggled to find direction on Tuesday as investors awaited Federal Reserve Chair Jerome Powell's appearance before the Senate Banking Committee, hoping for clues to the timing of expected policy tightening.",
+      "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-pix-2022-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/X8U1pRTQaVNNkvCZIC2oRd9ThGY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K6KEAPAMCNMGHCLI63UU3W7PFU.jpg",
+      "publishedAt": "2022-01-11T07:39:00Z",
+      "content": "SINGAPORE, Jan 11 (Reuters) - Asian equities and the dollar struggled to find direction on Tuesday as investors awaited Federal Reserve Chair Jerome Powell's appearance before the Senate Banking Comm… [+3682 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Michelle Toh, CNN Business",
+      "title": "Crypto CEO becomes one of the world's richest billionaires - CNN",
+      "description": "A cryptocurrency CEO has become one of the richest people on Earth.",
+      "url": "https://www.cnn.com/2022/01/11/business/binance-changpeng-zhao-net-worth-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220110231738-changpeng-zhao-file-11192021-restricted-super-tease.jpg",
+      "publishedAt": "2022-01-11T06:58:00Z",
+      "content": null
+    }
+  ]
+}
